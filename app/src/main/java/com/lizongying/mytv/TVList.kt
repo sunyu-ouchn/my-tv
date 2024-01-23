@@ -234,6 +234,7 @@ CCTV17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+辽宁影视剧,http://42.176.185.28:9901/tsfile/live/1012_1.m3u8;http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
